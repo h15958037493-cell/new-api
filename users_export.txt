@@ -1,0 +1,3 @@
+id|username|password|display_name|role|status|email|github_id|discord_id|oidc_id|wechat_id|telegram_id|access_token|quota|used_quota|request_count|group|aff_code|aff_count|aff_quota|aff_history|inviter_id|deleted_at|linux_do_id|setting|remark|stripe_customer|created_at|last_login_at
+1|123|a0.VZtPFJtZf5SqiFTZJONpe8n1mu4HqWy|Root User|100|1||||||||100000000|0|0|default|s9qj|0|0|0|0||||||1779941864|1779942087
+
